@@ -19,9 +19,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/Krishnadas-N/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnadas-N&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://github.com/Krishnadas-N/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnadas-N&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Krishnadas-N/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnadas-N&repo=convoychat" />
-</a>
+
