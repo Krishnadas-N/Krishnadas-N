@@ -20,7 +20,7 @@
 
 - <br><hr>
 
-<div style="display: flex; flex-direction: row; gap:10px">
+<div style="display: flex; flex-direction: row; gap:2 rem">
   <a href="https://github.com/Krishnadas-N/Krishnadas-N/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnadas-N" />
   </a>
