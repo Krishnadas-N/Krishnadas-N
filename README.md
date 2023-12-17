@@ -6,14 +6,22 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Krishnadas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnadas-N" alt="raghav-byte" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
+
+### I am Raúl Piracés
+
+- 🔭 I'm a Software Engineer 👨‍💻🎧 & Full Stack developer who is passionate about Web Development, Cloud computing architecture, and open source.
+
+- 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
+
+- 🚴‍♂️ I love cycling and walking in the countryside.
+
+- 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
+
+- 📫 How to reach me: use the badges above 😃
+
+- ⚡ I have a blog at https://piraces.dev where I try to post as frequently as I can (crossposting to [dev.to](https://dev.to/)). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
+
 --><a href="https://github.com/Krishnadas-N/Krishnadas-N/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnadas-N" />
 </a>
