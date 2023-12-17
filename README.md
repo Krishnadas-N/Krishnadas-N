@@ -14,20 +14,22 @@
 
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
 
-- 🚴‍♂️ I love cycling and walking in the countryside.
+- 🚴‍♂️ I love Watching movies and walking in the countryside.
 
 - 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
 - 📫 How to reach me: use the badges above 😃
 
-- ⚡ I have a blog at https://piraces.dev where I try to post as frequently as I can (crossposting to [dev.to](https://dev.to/)). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
+- <br><hr>
 
---><a href="https://github.com/Krishnadas-N/Krishnadas-N/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnadas-N" />
-</a>
-<a href="https://github.com/Krishnadas-N/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnadas-N&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/Krishnadas-N/Krishnadas-N/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnadas-N" />
+  </a>
+  <a href="https://github.com/Krishnadas-N/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnadas-N&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
 
 
